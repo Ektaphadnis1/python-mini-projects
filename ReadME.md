@@ -76,7 +76,7 @@ python timeseries.py
 
 ## 👤 Author
 
-**Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+**Ekta Phadnis**
+GitHub: https://github.com/Ektaphadnis1/python-mini-projects
 
 > *Built as part of a Python Mini Projects coursework assignment.*

@@ -138,6 +138,6 @@ Load CSV → EDA → Visualizations → Decomposition → ADF Test → ACF/PACF 
 ---
 
 ## 👤 Author
-**Your Name** — [@your-username](https://github.com/your-username)
+**Ekta Phadnis** — https://github.com/Ektaphadnis1/python-mini-projects/tree/main/12_timeseries
 
 > *Mini Project 12 — Python Coursework Assignment*

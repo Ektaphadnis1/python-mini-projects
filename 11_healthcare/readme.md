@@ -122,6 +122,6 @@ Load CSV → EDA → Visualizations → Preprocessing → Model Training → Eva
 ---
 
 ## 👤 Author
-**Your Name** — [@your-username](https://github.com/your-username)
+**Ekta Phadnis** — https://github.com/Ektaphadnis1/python-mini-projects/tree/main/11_healthcare
 
 > *Mini Project 11 — Python Coursework Assignment*
